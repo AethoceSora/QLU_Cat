@@ -1,5 +1,7 @@
 # 工大猫窝
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 如你所见，这是一个齐工大的**猫咪图鉴**网站。<br/>
 
 灵感来自北京大学的同类项目。<br/>
